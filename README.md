@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leonardvanonselen
 - 👀 I’m interested in too many thngs for the amount of time I have
-- 🌱 I’m currently learning Blazor & Maui
+- 🌱 I’m currently building Blazor & Maui stuff
 - 💞️ I’m looking to collaborate on something interesting
 - 📫 How to reach me ping me on gmail or outlook
 
